@@ -10,7 +10,7 @@ L'application va permettre à l'utilisateur de choisir parmi plusieurs effets vi
 Exemple de l'analyse de la webcam :
 ![image](https://cloud.githubusercontent.com/assets/14583100/23750220/37369af2-04cc-11e7-8566-732cc09ad32f.png)
 
-Démarche à suivre :
+### Démarche à suivre :
 * Utiliser une image de base et réaliser l'analyse en étant de face.
 * Faire des tests avec le visage qui est à un angle de 45°.
 * Adapter la taille des effets avec le visage et afficher l'image.
